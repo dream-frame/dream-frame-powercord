@@ -1,10 +1,8 @@
 {
   "name": "Dream Frame",
   "description": "Change the background to whatever you like, you can even use GIFs! Have a custom cover for your profile! Custom the colors to your likings!",
-  "version": "4.03",
+  "version": "5.0",
   "author": "Korbs Studio",
   "license": "MIT",
-  "theme": "DreamFrame.css",
-  "consent": "false",
-  "splashTheme": "splash.css"
+  "theme": "DreamFrame.css"
 }
